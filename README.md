@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋, I'm Jai Kripal
 
-<!--
-**Jaikripal/Jaikripal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Data Engineer with 5+ years of experience transforming raw data into meaningful insights. I specialize in building scalable data solutions using Azure, Databricks, PySpark, and real-time streaming. My expertise includes cost optimization and designing efficient ETL pipelines for big data.
 
-Here are some ideas to get you started:
+🚀 I'm a Data Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Optimizing data pipelines using Databricks, PySpark, and Azure.
+
+⚡ Specializing in real-time data streaming and cost-efficient cloud solutions.
+
+🌐 Sharing industry-level Data Engineering projects.
+
+📫 Connect with Me
+
+🌐 LinkedIn : //www.linkedin.com/in/jaikripal
+
+📧 jaikripal05@gmail.com
